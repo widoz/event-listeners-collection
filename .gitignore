@@ -2,6 +2,7 @@
 # Created by https://www.gitignore.io/api/node,linux,macos,bower,windows,composer,phpstorm,wordpress,powershell,visualstudiocode,phpunit
 # Edit at https://www.gitignore.io/?templates=node,linux,macos,bower,windows,composer,phpstorm,wordpress,powershell,visualstudiocode,phpunit
 
+
 ### Bower ###
 bower_components
 .bower-cache
